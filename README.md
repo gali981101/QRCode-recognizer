@@ -1,2 +1,2 @@
-# QRCodeReader
+# QRCode-recognizer
 QRCodeReader
